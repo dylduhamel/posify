@@ -1,3 +1,10 @@
+/**
+ * @author Dylan Duhamel { duhadm19@alumni.wfu.edu } 
+ * @date Sep. 22, 2023
+ *
+ * Image converter for negatives. Returns positive image. Primarily used for film scan negatives.
+ **/
+
 extern crate image;
 extern crate clap;
 
